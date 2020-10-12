@@ -1,0 +1,12 @@
+body {
+	color: red;
+	font-size: 2rem;
+}
+
+header{
+	background-color: green;
+}
+
+header h1{
+	color: black;
+}

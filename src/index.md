@@ -1,5 +1,8 @@
 ---
-title: "Hallo wereld! Opnieuw!"
+title: 'Hallo, wereld'
+layout: 'layouts/home.html'
 ---
 
-# {{title}}
+Hihihi, Pennywise hier! Ik ben terug!
+
+![Een afbeelding](/img/pennywise.gif)

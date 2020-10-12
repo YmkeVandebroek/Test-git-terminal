@@ -1,0 +1,9 @@
+<h1>Dit is de header vanuit het bestand site-head!</h1>
+<h2><a href="{{ site.url }}">{{ site.name }}</a></h2>
+<ul>
+  {% for item in navigatie.items %}
+  <li>
+    <a href="{{ item.url }}">{{ item.text }}</a>
+  </li>
+  {% endfor %}
+</ul>
